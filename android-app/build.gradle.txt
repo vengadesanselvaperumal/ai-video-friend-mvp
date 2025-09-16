@@ -1,0 +1,5 @@
+// android-app/build.gradle (placeholder)
+buildscript {
+  repositories { mavenCentral() }
+  dependencies { classpath 'com.android.tools.build:gradle:7.0.0' }
+}
