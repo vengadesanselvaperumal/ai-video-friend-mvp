@@ -1,0 +1,8 @@
+{
+  "name": "ai-video-friend-mvp",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "backend"
+  ]
+}
